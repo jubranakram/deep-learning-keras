@@ -2,7 +2,7 @@
 
 ## Summary
 
-This repository contains code examples modified from Rowel Atienza's book on "Advanced Deep Learning with Keras". I've rewritten parts of the code as set of functions completing specic tasks.
+This repository contains slightly modified version of code examples from Rowel Atienza's book on "Advanced Deep Learning with Keras". I've rewritten parts of the code as set of functions completing specic tasks.
 
 ## Dependencies
 
